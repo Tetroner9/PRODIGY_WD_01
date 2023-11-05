@@ -1,2 +1,3 @@
 # Prodigy Web Development Task 01
-![Website](https://drive.google.com/file/d/1opfQS2G_zC4rwoExWwByPmudvzi21EhH/view?usp=drive_link)
+
+![image](https://github.com/Tetroner9/PRODIGY_WD_01/assets/68982366/feae0331-f2c8-423e-9f17-e9a458b1f902)
